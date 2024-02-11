@@ -29,7 +29,7 @@ body {
   background-size: cover; */
   /* background: color image repeat position/size */
   background: var(--bg-url) no-repeat top center/cover;
-  height: 90vh;
+  /* height: 90vh; */
 }
 body * {
   font-family: 'Inter', sans-serif;
@@ -39,7 +39,7 @@ body * {
 #container {
   width: 100%;
   max-width: 588px;
-  margin: 56px auto 0px;
+  margin: auto;
   padding: 0 24px;
 }
 
